@@ -14,9 +14,9 @@
 clear
 echo ""
 echo ""
-echo -e "\e[32m                ============================================\e[m "
-echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Instagram : @bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
-echo -e "\e[32m                ============================================\e[m " 
+echo -e "\e[32m============================================\e[m "
+echo -e "\e[31m    [\e[32m★\e[31m]\e[93m Instagram : bhikan_deshmukh \e[31m [\e[32m★\e[31m]\e[m "
+echo -e "\e[32m============================================\e[m " 
 
 # check the internet connectivity 
 connection() {
@@ -186,9 +186,9 @@ echo -e "\e[94m
        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ v 1.0\e[m "
 
 echo 
-echo -e $'\e[1;32m        =======================================           \e[0m'
-echo -e $'\e[1;93m           c r e a t e d  b y  b h i k a n                \e[0m '
-echo -e $'\e[1;32m        =======================================           \e[0m '
+echo -e $'\e[1;32m ======================================= \e[0m'
+echo -e $'\e[1;93m     c r e a t e d  b y  b h i k a n \e[0m '
+echo -e $'\e[1;32m ======================================= \e[0m '
 echo 
 banner(){
 echo -e "\e[1;96m=============================================================\e[m "
@@ -273,9 +273,9 @@ ash() {
 			    clear
 			    shark_logo
 			    echo 
-			    echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
+			    echo -e "\e[96m===================\e[92m VICTIM INFORMATION \e[96m=================== \e[93m"  
 			    echo 
-			    echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m=========================\e[92m"
+			    echo -e "\e[96m===================\e[92m    SHARK © 2020    \e[96m===================\e[92m"
 			    echo
 			    tail -f log.txt | grep -e "email" -e "pass" -e "approvals_code"
 	
@@ -305,9 +305,9 @@ ash() {
 			   clear
 			   shark_logo
 			   echo 
-			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
+			   echo -e "\e[96m===================\e[92m VICTIM INFORMATION \e[96m=================== \e[93m"  
 			   echo 
-			   echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m========================= \e[92m"
+			   echo -e "\e[96m===================\e[92m    SHARK © 2020    \e[96m=================== \e[92m"
                            echo 
                            tail -f log.txt | grep -e "id" -e "password"      
 
@@ -337,9 +337,9 @@ ash() {
 			   clear
 			   shark_logo
 			   echo 
-			   echo -e "\e[96m========================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
+			   echo -e "\e[96m===================\e[92m VICTIM INFORMATION \e[96m========================= \e[93m"  
 			   echo 
-	        	   echo -e "\e[96m========================\e[92m    SHARK © 2020    \e[96m========================= \e[92m"
+	        	   echo -e "\e[96m===================\e[92m    SHARK © 2020    \e[96m========================= \e[92m"
 			   echo
 			   tail -f log.txt
 			   
