@@ -68,7 +68,6 @@ $ ./kali-setup
 $ shark 
 ```
 
-### Screenshots
 
 #### Installing Shark :-
 
