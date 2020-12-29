@@ -4,7 +4,7 @@
 <p align="center"><b>Shark
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035221/92106331-df7b5000-ee01-11ea-9f16-c0a62a027b27.jpg">
-
+# forked by srinivasop from legendx 
 ### What is Shark??
 
 Shark is a tool that will help you do Phishing in advance way so no check and identify that you are you doing phishing. we guys have add a feature of custom link so the normal link of ngrok that will change in to different link in the tool it self and you can customise that link also like you can make https://google.com/gvbrvbtfg/ftps.io
