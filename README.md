@@ -47,7 +47,7 @@ $ shark
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/bhikandeshmukh/shark && cd shark && chmod +x * && ./setup
+$ git clone https://github.com/srinivasop/shark && cd shark && chmod +x * && ./setup
 
 $ shark
 ```
